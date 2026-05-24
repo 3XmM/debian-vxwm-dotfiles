@@ -19,7 +19,7 @@
 Для установки просто откройте терминал и выполните:
 
 ```bash
-git clone https://github.com/daniilkosihin-blip/debian-vxwm-dotfiles
+git clone https://github.com/3XmM/debian-vxwm-dotfiles
 cd debian-vxwm-dotfiles
 chmod +x install.sh
 ./install.sh (либо sh install.sh)
