@@ -5,7 +5,7 @@
 ---
 
 ## ✨ Основные особенности
-* **vxwm ** — прокачанный и модульный форк `dwm` от *wh1tepearl* с бесконечных "рабочим столом" (infinite canvas) 
+* **vxwm** — прокачанный и модульный форк `dwm` от *wh1tepearl* с бесконечных "рабочим столом" (infinite canvas) 
 * **Picom** — современный композитный менеджер (сборка из исходников ветки *yshui*), обеспечивающий плавные анимации, тени и размытие (blur) окон.
 * **Alacritty** — сверхбыстрый эмулятор терминала с аппаратным ускорением через графический процессор.
 
@@ -19,7 +19,7 @@
 Для установки просто откройте терминал и выполните:
 
 ```bash
-git clone https://github.com
+git clone https://github.com/daniilkosihin-blip/debian-vxwm-dotfiles
 cd debian-vxwm-dotfiles
 chmod +x setup.sh
 ./setup.sh
@@ -38,6 +38,6 @@ chmod +x setup.sh
 ---
 
 ## 🛠️ Разработчики и благодарности
-* Оконный менеджер: [wh1tepearl/vxwm](https://codeberg.org)
-* Композитор окон: [yshui/picom](https://github.com)
+* Оконный менеджер: [wh1tepearl/vxwm](https://codeberg.org/wh1tepearl/vxwm)
+* Композитор окон: [yshui/picom](https://github.com/yshui/picom)
 * Базовая основа: Команда [suckless.org](https://suckless.org)
