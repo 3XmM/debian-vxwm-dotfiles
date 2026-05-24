@@ -21,8 +21,8 @@
 ```bash
 git clone https://github.com/daniilkosihin-blip/debian-vxwm-dotfiles
 cd debian-vxwm-dotfiles
-chmod +x setup.sh
-./setup.sh
+chmod +x install.sh
+./install.sh (либо sh install.sh)
 ```
 
 > ⚠️ **Внимание:** Скрипт предназначен для чистой системы (минимальной установки Debian без тяжелых сред вроде GNOME/KDE). Перед запуском убедитесь, что ваши личные данные сохранены.(по поводу различных ошибок установки либо пишите в issues либо сами исправляйтя файл установщика) 
